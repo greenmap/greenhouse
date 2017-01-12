@@ -1,0 +1,5 @@
+<?php
+// file not in svn
+$db_user = 'greenma2_21';
+$db_pass = 'Q5QTCCSm';
+$db = 'greenma2_ogmlivedrupal6';
